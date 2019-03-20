@@ -1,0 +1,3 @@
+/home/lichenxiao/文档/dashulei/build/CMakeFiles/edit_cache.dir
+/home/lichenxiao/文档/dashulei/build/CMakeFiles/rebuild_cache.dir
+/home/lichenxiao/文档/dashulei/build/CMakeFiles/Demo.dir

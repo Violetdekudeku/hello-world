@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Demo.dir/dashulei.o  -o Demo -rdynamic 
